@@ -1,0 +1,15 @@
+.nav-container{
+    background-color: #ccc;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-heading{
+    font-family: Roboto;
+    margin-left: 10px;
+}
+.search-bar{
+    border : 0px;
+    font-family: Roboto;
+    padding: 10px;
+}
