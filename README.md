@@ -1,6 +1,6 @@
 # Trello Clone 
 
-This project was made using create-react-app.
+This project was made using create-react-app. Deployed : https://trellosboard-clone.netlify.app/
 
 ## Available Scripts
 
